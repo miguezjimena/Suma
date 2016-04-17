@@ -1,0 +1,15 @@
+/*  Suma
+K1051 Jimena Míguez
+17/04/2016
+*/
+
+#include <iostream>
+
+int main () {
+	int a;
+	int b;
+	
+	std::cin >> a >>b ;
+	std::cout<< a+b;
+	
+}
